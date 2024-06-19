@@ -20,7 +20,7 @@
 92E:\git\evento_1\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\clean\index.js133632767867453870 0
 39E:\git\evento_1\dist\fundo.a62a0635.png133632788229974441 0
 31E:\git\evento_1\dist\index.html133632788230523765 0
-36E:\git\evento_1\src\styles\main.scss133632782300198080 0
+36E:\git\evento_1\src\styles\main.scss133632792280395695 0
 101E:\git\evento_1\node_modules\sharp\vendor\8.13.3\win32-x64\include\pango-1.0\pango\pango-glyph-item.h133117882010000000 0
 61E:\git\evento_1\node_modules\htmlnano\lib\modules\example.mjs133632767872459447 0
 78E:\git\evento_1\node_modules\csso\node_modules\css-tree\lib\generator\index.js133632767880782923 0
@@ -94,7 +94,7 @@
 90E:\git\evento_1\node_modules\sharp\vendor\8.13.3\win32-x64\include\glib-2.0\glib\gbase64.h133117882010000000 0
 62E:\git\evento_1\node_modules\htmlnano\lib\modules\minifyJs.mjs133632767873053895 0
 100E:\git\evento_1\node_modules\sharp\vendor\8.13.3\win32-x64\include\libgsf-1\gsf\gsf-open-pkg-utils.h133117882010000000 0
-40E:\git\evento_1\dist\styles\main.css.map133632791597141791 0
+40E:\git\evento_1\dist\styles\main.css.map133632792280848359 0
 121E:\git\evento_1\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\pseudo\common\nthWithOfClause.js133632767873670102 0
 58E:\git\evento_1\node_modules\@swc\helpers\esm\_to_array.js133632767879100586 0
 51E:\git\evento_1\node_modules\timsort\src\timsort.js133632767853421418 0
@@ -7171,5 +7171,5 @@
 42E:\git\evento_1\node_modules\.bin\svgo.ps1133632767897655152 0
 60E:\git\evento_1\node_modules\.bin\update-browserslist-db.cmd133632767897655152 0
 41E:\git\evento_1\dist\backend.3c327b9e.png133632773796584419 0
-27E:\git\evento_1\dist\styles133632791597141791 1
-36E:\git\evento_1\dist\styles\main.css133632791597121729 0
+27E:\git\evento_1\dist\styles133632792280858399 1
+36E:\git\evento_1\dist\styles\main.css133632792280828236 0
